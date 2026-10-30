@@ -1,0 +1,2059 @@
+{
+ "country": "RU-ALT",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Altai Krai: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2014-09-10",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0356b4d555c204e62b6e80c69f7f61c0b1bc52c8e7c0dcf096d2a6a9710e507c"
+    },
+    {
+     "from": "2014-10-07",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3292b99a842869fd635af90c16bb5206b2c31cac080bbe1e454fa2851bdcec48"
+    },
+    {
+     "from": "2014-11-07",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3441ecf1433dbe64314684ba05654fff580b8322190072fcf52337c43eeb5cbb"
+    },
+    {
+     "from": "2014-11-10",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "62adc08089be72800313c33b39828651f84f935a46a5c425b7e6921f3c4fc29f"
+    },
+    {
+     "from": "2014-11-11",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "37d18143c513ead89351b1607f394bb5753c56b0a948d78f960fc9564c4d6811"
+    },
+    {
+     "from": "2014-11-28",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9ac1edabee331876c7791827db01ff26baefa74887e2bf844fb486cd2e5fce2e"
+    },
+    {
+     "from": "2014-12-03",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d0dd8e9e8f94b7602ae1847667a8f53e471c6d947ef8e5e813ce4aacd5e52f00"
+    },
+    {
+     "from": "2014-12-04",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a157c00d12ffa6d921ea1f3fb8febbb4597f1f63dfff17bea4b5c9be431bfe3e"
+    },
+    {
+     "from": "2014-12-05",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ad6ce872dec11e28dc5e8fd1f5346930cef8bb5ab93b29c66117b29215f803f3"
+    },
+    {
+     "from": "2014-12-24",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "1b94c819a4c4367b900622bde3ec65abc02ebfcea9154ab167371f2cb6ad27ec"
+    },
+    {
+     "from": "2014-12-26",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fb6bb5e49ebaa0c787fe59d7c98c129ca595e80cd3c4c1bc34ca805f04347d18"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Altai Krai: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2015-02-04",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e7d3d6575af501bce663c749c1601687d0a4f8bdcf6bc8913b8f49ca3d8e3192"
+    },
+    {
+     "from": "2015-03-06",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e8c6a2f1efe6f453f7e36ae35a1e1d90cd6b276141a3b7c3057127ae468bd5ec"
+    },
+    {
+     "from": "2015-03-11",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "38ecadb924bb6ad96a2e09b653eaaf766bba92680742676df28c8cff392d8dc3"
+    },
+    {
+     "from": "2015-04-06",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d137d45d9b120ecd2e4b05e82d25cafa255beff20b3602e99e16b1e4ca3ccbcc"
+    },
+    {
+     "from": "2015-04-07",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b036b5f6a34c0b557a594a80bc8c3c3965b785006e346ec935e2e1951da905f4"
+    },
+    {
+     "from": "2015-05-13",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "95691ece6a5d5c075964a7ccf68b9c6bfa93d6af0b33f76ec75366d2be25711f"
+    },
+    {
+     "from": "2015-05-14",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b5f8359c2b0c3c80f7a65417763c9662fec2d987644455a5fa2b663f11e3111c"
+    },
+    {
+     "from": "2015-06-03",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d8cb340d6f030c6d4413032fdc4c6932fc33df98c17cbe01bc7a07aa4068d076"
+    },
+    {
+     "from": "2015-06-04",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0ba04e031970eb7037e4b7563b311d8a4afdfa0a4cdbd825347d0520d3280304"
+    },
+    {
+     "from": "2015-06-25",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2abaad0e94ffbb3ab0228f01b60fa8994cd87663cd280cdc000da8e3d60f8782"
+    },
+    {
+     "from": "2015-07-01",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "141a0542a059ccfae57d76e7d7130e5cee79446f152683aa8c88601f01b1c238"
+    },
+    {
+     "from": "2015-07-02",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a00a8ac97b2271c3910603947b8aabf9710d2db1341f58e0a2a9bb87bd6074b3"
+    },
+    {
+     "from": "2015-07-03",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8356112ce557177e76a1079a90c8073c590bff58d5ff4fd6ea40c1ba8d8ddca8"
+    },
+    {
+     "from": "2015-07-07",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9d71a3a30a2a90a6df34f3457c5f489aedc04e7226a6c5236706e5f335aadbcf"
+    },
+    {
+     "from": "2015-07-08",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ef3f22e931e9c947073ab14c7f42d9a4f5c48c0caf812bdef1e84766145acb98"
+    },
+    {
+     "from": "2015-09-03",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d5e1a541a6c530d5dded32fd02da06f1aa4db791d5dc9d00d01fcae8a3a2942b"
+    },
+    {
+     "from": "2015-09-04",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e32d950db670b36920001362518f11badc76bae8772dcf7ef2f830b5d149f7f5"
+    },
+    {
+     "from": "2015-10-01",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0d5058a5d3f74eb2f06a4c52bfad2ed6d76531f4cd0993d6507bc3d8fffb12cb"
+    },
+    {
+     "from": "2015-10-06",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6e253eaac44bb9e11cc0a3ff3af4078fdea13bf1d2b85dd104def30787e04136"
+    },
+    {
+     "from": "2015-10-07",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2ec81d45e7bf89b3f0182d834b5070f3e4b75034b27e280a593761aa670e845e"
+    },
+    {
+     "from": "2015-11-10",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ee13e3adb3837a20ba974c05904b38b863aa31fa4ff0c76346a1d6be020a9327"
+    },
+    {
+     "from": "2015-11-11",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "80c88e973a9a7bd019e3778ad7c2de23b7c2994233d4dd9654aba2efdb5990bf"
+    },
+    {
+     "from": "2015-11-12",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "4c0e8d0549e038f9f51eb2c3938560d3a3c6636a04b34e4146f7651beabd260d"
+    },
+    {
+     "from": "2015-12-07",
+     "units": 120,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f8392562bd7dcdc5007850f1e520ac9dd38c07acdff2d0ead4a9d038c0efcbdd"
+    },
+    {
+     "from": "2015-12-23",
+     "units": 122,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6c17e36bdfbf975f00202c12f0ecd48c3b42fade42a8adfcae154ace0852d5d5"
+    },
+    {
+     "from": "2015-12-24",
+     "units": 132,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7ad55e832db986cd5202932f3c83cee5ba9797686e10850f35f7caafdfa5eb10"
+    },
+    {
+     "from": "2015-12-31",
+     "units": 133,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fb5cc462bf45b67521a707286de79ef20e33eac721b89c2dc23aac52865fb1d1"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Altai Krai: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "1492d6002c087430d43315dc94ed0956e95435a18d40e672bf283f8862ed95a9"
+    },
+    {
+     "from": "2016-02-08",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "1362b013379dcae38811c7a2b08db1d7b4b5a5c4d6f46633b2ec3d1408074a88"
+    },
+    {
+     "from": "2016-03-03",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d7fb56d9f3f2fe03dbae36847ffdab8383e343eea3a58bffa336ec36dd60cd1b"
+    },
+    {
+     "from": "2016-04-07",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9e6e8d2daf31bf5ef313c9804e1ff23e9ac9a404e0c0171af17ae1bb7932da14"
+    },
+    {
+     "from": "2016-04-08",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "cdaf338e104957e0392640a05f8a40c6217e77efacab759398e4fa982d613c1b"
+    },
+    {
+     "from": "2016-04-11",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "acf8e216c31c4fea2f3cbb8752294a00ce7098e385def4e48de66e02f5044cc7"
+    },
+    {
+     "from": "2016-05-06",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b2851dd2527713d9b6316af442922f0d93d1b5636794aaad81582f0c12094a2e"
+    },
+    {
+     "from": "2016-05-10",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "86c52d6a91dcec2281937b63090b2b1c3fc101a076d0e834a1036064c90e3b36"
+    },
+    {
+     "from": "2016-06-03",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "213a444ca4b28c6f4cde7b3267be0d78346642f8d7821e10829a65f794615da7"
+    },
+    {
+     "from": "2016-06-06",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "76a650255d5bdbb07501e3807aa4851bcd6c628a70383aadda25aa9061e701ed"
+    },
+    {
+     "from": "2016-06-07",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c6b202d295106f46e247b072ee61d78421bacd012567fd8d7820b4c556bdf1d8"
+    },
+    {
+     "from": "2016-06-21",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c2b655680e6314980c4b3bb5d587d6ac87d45809c1d6575ef14c2433d8ee8715"
+    },
+    {
+     "from": "2016-06-22",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "283dc9c805d921768c1b40ab8161b361c7717b3d8129913c710589ca7f7e8276"
+    },
+    {
+     "from": "2016-07-11",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c707db5a2f35936bd74c3ade76dd185595012f3601661a96d7024954c4e8df23"
+    },
+    {
+     "from": "2016-08-10",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6e924881ef5787c47adfe1b8bdef23248aa0d4bfc43c3f54db1e199d1a68c165"
+    },
+    {
+     "from": "2016-08-11",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "09635ae29828ec5c4fe7ba36a7b3406d53d44d6d91811089371d3c42835cff42"
+    },
+    {
+     "from": "2016-08-15",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7f3cc4be6e103b4d1572c711c08cc5cbbc0e63368d59dbe39e13a97edd540c5c"
+    },
+    {
+     "from": "2016-11-03",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b6711738bc5352cbbbe43a416727e1902f9a474e4aacb32343a376196550bb45"
+    },
+    {
+     "from": "2016-11-07",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "22dd73eaa6ecebd15b6e22cdc368221db0e6247bba213aaea95398c57e317706"
+    },
+    {
+     "from": "2016-11-30",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6e4841235d24302e626b7321dddf9cb922da32be000257f5fb136dfce17ecfb4"
+    },
+    {
+     "from": "2016-12-01",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5b95f1cb03e48bbb36325022891908d827008948d63d9e75d53189a9057fdd8b"
+    },
+    {
+     "from": "2016-12-05",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "12350051afb7eb3adb02d35e07b30424e231cf823cdb911edc0ece35cf75480d"
+    },
+    {
+     "from": "2016-12-21",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "4ec7c656702bca8539c6dee39432e0033ba8f7afc4d7f578b6aed18016a3a814"
+    },
+    {
+     "from": "2016-12-23",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7b8fff097588f78bac149f589e481dd9002cbe1860434fb364069ce5787437af"
+    },
+    {
+     "from": "2016-12-26",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e1bdc6112f09982f6ec3ab29dfe1d897fdd6ea8b904d283b7ebebed464cff302"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Altai Krai: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2017-02-03",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5b11fdec0025280ae485c5d467e914fb3ca241a8e218e4dba7317834df6bdb5b"
+    },
+    {
+     "from": "2017-02-06",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c1caf6316abf52cd01dd9ae1304a882bdc767a511df8bce1024b00d33d947e98"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "27152d330f84361f4fe5924ffe8a3bd5af1c4a1b8257e6586f4d79eb0d73ee29"
+    },
+    {
+     "from": "2017-03-06",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "43cf37bf74058686823e0dc710d13ef98a9345d6afef4f0373614ba7df9ccf42"
+    },
+    {
+     "from": "2017-04-06",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "14c0d36ac865473730cd683a3749eb886a6c68316e3dc777604e4095c6a9fca3"
+    },
+    {
+     "from": "2017-05-04",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "306868a72f215e8a194ae4d1440f9b243f2211be4533ca9e5d20792ca147dbbd"
+    },
+    {
+     "from": "2017-05-05",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a6ce903d1facb01e6a2ccc59d69f1fd810728d60ea0a84faebb1621db3e63dae"
+    },
+    {
+     "from": "2017-05-10",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "81ac0f790e186e9d735757160ea13a8a268ffa121bf560ca6886d11e1433ad44"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5ae7862ab516bc9651b69a8e1b4e19831bc0f92343847d5c17d84c0bcfdcef34"
+    },
+    {
+     "from": "2017-06-02",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "cd0fbb221e5ff77a017e7c333d742936ba8be1be5674adddc113c5344514b38d"
+    },
+    {
+     "from": "2017-07-03",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "40d577a3a328852de8948b6711af9d1aba364284056b4b2e9b89540f7955c276"
+    },
+    {
+     "from": "2017-07-04",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "898eb4bfb01832771190f20f25cc8fa1c8b91bc9e429b42beb72cd01a97d5efe"
+    },
+    {
+     "from": "2017-07-05",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f07f49b998b9d16e5e284d8cfc6f747cdfb027950875108d90e779fa90f98d94"
+    },
+    {
+     "from": "2017-07-06",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "595e556fa86a01ca6190ea488117249e74c9c942ea9af71d416f53b418143940"
+    },
+    {
+     "from": "2017-09-06",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "65ed54e426c617761dda205e3fe7e6e79b46e40d7a80e40669b145b9397b6b3d"
+    },
+    {
+     "from": "2017-09-07",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d5a9cfd8f5e6520ea28e91eea34be15f3eed43d0a81b40a1902e20939036e502"
+    },
+    {
+     "from": "2017-10-05",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6b575121691be82be049ba13bf3f638119f436c1d9256e0767af0fb4368ba541"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "00ce5c3779484d6ce15c5974cd10dfc59bc497597aea9af9491bf61c852e0577"
+    },
+    {
+     "from": "2017-11-03",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3e83024885ba2415e755c5f22b6e38c20f155b8cd36496919088d52f3501eed9"
+    },
+    {
+     "from": "2017-11-30",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c631fad8a0adf27bbd5d4762998a45875ff85bc9dddb8e418e863267dff6fb41"
+    },
+    {
+     "from": "2017-12-01",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c9332b4227c6280dd60107fa70aae25e6a2ac69c1d8492beb3333e2d5dec41fd"
+    },
+    {
+     "from": "2017-12-08",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5b2c6b4168d4bc044b4230ae4cb3faba2b1adf31ecc0295176195c7fad6cb856"
+    },
+    {
+     "from": "2017-12-11",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fb24f415c129e9a3a1035a289b22c4ccbfecba284936fd7e8d6c6ed0b2f4bf6e"
+    },
+    {
+     "from": "2017-12-26",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fd7a563d3077b86d70a5e4b7104b85ef69886712f59f25deb6f93fcbfab8d253"
+    },
+    {
+     "from": "2017-12-27",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "47b1fb885fc55c0c8bc29816aa812867807ae82bc1218cd774a7a6b71f3f3dc2"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9ddc51daee75199d7ae5bb8d725650f0c3039519980384fa5c7524d21c59b8cc"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Altai Krai: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "057ef6a15feb68abd29b84c311396760b6add70866e89c120a82886955ff6576"
+    },
+    {
+     "from": "2018-03-02",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "aeb7706e5d3c609ef968cf7c0a7b71da78c9f0766370700b50adbb6797de608f"
+    },
+    {
+     "from": "2018-04-04",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "63a93519488e06505bb25be1474b76d7b6bb0257b1331c31493f59768d768a4d"
+    },
+    {
+     "from": "2018-04-09",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d3556880c1d8e8020556ca979912188d3f605ba280f2169b969132ded61d0049"
+    },
+    {
+     "from": "2018-05-03",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f62a901dd40ca7847b5bec86c5f7b1a0221bdb44177ec6fa9c3d7e53688fbfd8"
+    },
+    {
+     "from": "2018-05-04",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0e7a189261b17a9fe050b69e1507800d348a5b7a49df4165aa3534724e75f5eb"
+    },
+    {
+     "from": "2018-06-07",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3702ae1a606f5cbed9acba67e808dc58d71e53e3941eda29466172369d55ff9d"
+    },
+    {
+     "from": "2018-06-09",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3840e8d91b6978623614fd94922e5754ca8edb4c42380a88bc50ffa11c2e9934"
+    },
+    {
+     "from": "2018-07-03",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "308e9ec962302bec2cc821e755ba3ec35ac8e9f9f700668a48bd6c9e5378f63c"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b6caa63ef73a4949ecaee2a13e7fb65dbd402f09b7a5472c203cd6145d621d88"
+    },
+    {
+     "from": "2018-08-30",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "80ee9bf224e1e0e438a769cd035c4a66df5704d6a0b97e448d52273d37c0a809"
+    },
+    {
+     "from": "2018-09-06",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7830f1b46ab428f134e56d93e58a377e4de324458941e01a4bc57668dd2bdeb7"
+    },
+    {
+     "from": "2018-10-03",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "4529160864b273e2b0f589bd08616b5ba18d61977a28735fa940861a0aa73119"
+    },
+    {
+     "from": "2018-10-05",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5322f1b3e8227e6b9d6bb70a9b7e4850b47bc01e69577dd9b06d70178ef1a563"
+    },
+    {
+     "from": "2018-10-08",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7c90c33fe891d7aa0a8af64ae307799d18dac08f056ba4817eb2b6b8157d4e94"
+    },
+    {
+     "from": "2018-10-29",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "22208d0d350bf52818141b1e106b33340aa4db8ef0869c57ffd4a35aa7029e76"
+    },
+    {
+     "from": "2018-10-31",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "faeb07e54840b205014760c67b1b56ace5cd905d19618043716d97c7dd087217"
+    },
+    {
+     "from": "2018-11-01",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "56249565b80d92d6294fdaa7d80796e03e3871a3ec31f0be0186c7a7a1873680"
+    },
+    {
+     "from": "2018-11-02",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "81546ebca5a032ba16e7d0c836fcccb6fd037ae8e5de928d1c72c411fb0c8724"
+    },
+    {
+     "from": "2018-12-06",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a73239c9d6197db8fdc96a1490176e8ee41bd8670afd56ac686a1b75cdbeaf42"
+    },
+    {
+     "from": "2018-12-14",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ff3f43080f5a23cad0735d77e457c19b0ac8cbd1c87da73989b7439b77c50d16"
+    },
+    {
+     "from": "2018-12-17",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "36bbbcf36726bf17cb3c511670f1ec60cc830e31059d38ed94bd145747595a59"
+    },
+    {
+     "from": "2018-12-27",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6f33568c62001b9ab9526655bda316e016638ce349ca4f59d7ec3785da3b8a91"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Altai Krai: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2019-02-06",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6392b48bd4397ad61a8174197f6ed4fa9057c240f33d2dcf1ea7b2630873b309"
+    },
+    {
+     "from": "2019-03-07",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7e1ad7d3a2f6a6708be5373f2b84b87588f47e35304c32ad8b5402e7335fdd47"
+    },
+    {
+     "from": "2019-03-11",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9a34164319818072e10e235112a647f35d444d253306383015e83090bc60c8e7"
+    },
+    {
+     "from": "2019-03-12",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c175744d73043701c073c82ef4b527a64f7afaa178bd921f0d5ed1135956769f"
+    },
+    {
+     "from": "2019-04-04",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f5986c1c6933699e17cb62999cf8bdee635e184e125c239d8edfbabb6958ac2a"
+    },
+    {
+     "from": "2019-05-07",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "95890a3db8bf64d15505cf7d96462313de0cd3c3b7521b4235fadf80e761a5b3"
+    },
+    {
+     "from": "2019-05-14",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e4785238a58c93a83e0281291d4a2b9ee4ceff30470d876ec6b76c6e0dab2689"
+    },
+    {
+     "from": "2019-06-03",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8d4755f56e6a2cfa0951824eb9d985e4412fe2eb5def56ea17e9cb35177930cf"
+    },
+    {
+     "from": "2019-06-05",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c47d1adc5fefb20071d9886eb6b7b5889582c41bbb6074d270e3b5542cc6f0a0"
+    },
+    {
+     "from": "2019-07-02",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f1eabf37ac62020b6723eca968d00efb4c89bebad96c07c3d1583c68bb33c6c5"
+    },
+    {
+     "from": "2019-07-03",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3389b3cc380dc6b6c0a56515bed3acf4b275764f6e6eb16713e27b9afe9e9041"
+    },
+    {
+     "from": "2019-07-04",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "38216170533c1ece6a00e5a557f26a321728699e821c7d6e5ad9b322e5b617a4"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b2f41d5a62bbfe1f5338cf930867bb87c26cc7f986ce193e588f9c34fe4119cb"
+    },
+    {
+     "from": "2019-09-05",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "74b991acebae9a230abe9dc547544a4b5ef8c9343c217f046a737c07a2a43f59"
+    },
+    {
+     "from": "2019-09-06",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fa3025679fb06ada7186182ee0025eada63a2d7dac021e802e11fe06f0b07f26"
+    },
+    {
+     "from": "2019-09-30",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "647f569db58e413ebfdb9e8a100a5ef25394320a0cee917e9b0e602ee2b60a7d"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f1f6760e93740d1d0b1e862bd76628292462d5a3bcd508e99f2a961e83a2bbd8"
+    },
+    {
+     "from": "2019-10-08",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a86554170036b97a8e48fe07df6d0cea484e52c4f88c5973a34dff6d1aa1faf8"
+    },
+    {
+     "from": "2019-11-05",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "60ca9fa6b7e371608aad87dbe151e4f347f006ee77cd41e391a4faa1291aa1b8"
+    },
+    {
+     "from": "2019-11-11",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b11e2918847c66f98cc925bd4b490976ab7a723c56514efbabefb6ec433ebabf"
+    },
+    {
+     "from": "2019-11-12",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "20f434f9001ed587122b666fc82e1bfa25c871e343915910b78a10b3328941cf"
+    },
+    {
+     "from": "2019-11-29",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7e1c24ef4308e961ba8261fad3b64bd26939f5f18777287381fe43dea6537362"
+    },
+    {
+     "from": "2019-12-03",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "98689063d9359d0132be9754b66fba9dd28c2fd08f9b957808bcc500a516976e"
+    },
+    {
+     "from": "2019-12-04",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "386f9185385ed029858d7c6f081f2ca63d9b24cc8b2beffadc26d44953591b34"
+    },
+    {
+     "from": "2019-12-06",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7f8ac1c5d8a9699555e5bb162fd883f4018a1720d5f30dacaa07e82c0bc642c5"
+    },
+    {
+     "from": "2019-12-24",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "32cb193ad57033e053a9cc6b61e13777782511d54d62799aefbc0d94099822fa"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Altai Krai: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "60c56dba2903d89cd72ec8a650689373c339e3d133e2fe98b4434932e835571b"
+    },
+    {
+     "from": "2020-02-11",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5a4f491da6b6f8cf7eb7f44583b32a4bf66b4b0e3bf91e7603d4bbda8944a26a"
+    },
+    {
+     "from": "2020-03-10",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "23a6bfd5bb1791b6aba07aeabe045ec46979de15805517e959d9b397d33f58f0"
+    },
+    {
+     "from": "2020-03-31",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "aeb9f49c861f39ef2ad02ff65e75d1159045da204d5f231eca65b67e9253bb93"
+    },
+    {
+     "from": "2020-04-06",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7ec6a13f9cce0f5e51c0881cce66fdfdbbede3bcabd213f287a2971d1e0546f8"
+    },
+    {
+     "from": "2020-04-30",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "78abcaa9b891ff532dc9a3702496a7b3c4c02ac4380235a49d856b7f5c82046b"
+    },
+    {
+     "from": "2020-05-06",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fbedca5d2ecb188da599f626d9954c834a45561ec9bc9490975a46ac6c581595"
+    },
+    {
+     "from": "2020-05-07",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3bcaefa525fcc6dceefa6173fefaf0579b64996efc5efd31b251a112274c0cfb"
+    },
+    {
+     "from": "2020-05-25",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ed88913f6d3bcd3c1f3610cc81fe1586445f3b62572f853ddc89b0e0d950b638"
+    },
+    {
+     "from": "2020-05-28",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "db37753788c4d1d2b04f90edd4805075eeef0f740dc42b0f49f8df4686d19d23"
+    },
+    {
+     "from": "2020-05-29",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c370c7c7969f785ed6207242dd597a21e84a2161884dc62617f22a9d0a46cd19"
+    },
+    {
+     "from": "2020-06-03",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ceabedc7f61de0c3c55f39425a34417dca1c04a8b4228dccc508c90acba3bfec"
+    },
+    {
+     "from": "2020-06-05",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9308ccbe529bd123175c93928778537971f7d59fa37d3855db3be17dad68db49"
+    },
+    {
+     "from": "2020-06-09",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f2c535d9a97401dd08f09ed21caf52c8866143c47488c5e20721609e9df2746d"
+    },
+    {
+     "from": "2020-07-03",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "808cd3dd5d31f70d07642a636118f3d67fa476757330eb165a877077855028c3"
+    },
+    {
+     "from": "2020-07-08",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "31d965db65aa271df11440c014dd1d21836bcf821c892cfe488074cd98a4a12b"
+    },
+    {
+     "from": "2020-09-04",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5648e200a1ca98b9171645695fa860965e32bd426d0b521df55b4da658e433d4"
+    },
+    {
+     "from": "2020-09-08",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3d8bd909ec5afdb1c755a077830906d288bc94703ac456af3c3b4f756020c18a"
+    },
+    {
+     "from": "2020-10-05",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2187fc5a9bdaf58c2dc43754cbf1d2537d667d584d153e236ec3d8e857328517"
+    },
+    {
+     "from": "2020-10-07",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0cc1ce5ec0fb42c7884b9c3a53a62b2b25b2750f30708c1bf6388fdc2d3c8702"
+    },
+    {
+     "from": "2020-10-16",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "662d0e8f00d879b29df869c171d18d33258f8099e5a86cf48668fa2db371e892"
+    },
+    {
+     "from": "2020-10-28",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c7dbb30b886c1ece772c2bfd1d24ae1ed050d6ad80b1eb7cb73c3a87610a04e1"
+    },
+    {
+     "from": "2020-10-29",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3921dbcd0f6b254587fd04272fc8432da73df98f41579c98e6081374826d0b23"
+    },
+    {
+     "from": "2020-11-02",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9a162fe0f0d6f0b3a246a3b054bed540f25c3b07a85fe65a02926379fd23b714"
+    },
+    {
+     "from": "2020-11-03",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d5f280273aafe8e7a1a7110a3c0ad3223f0e507a18cd807b024d5490ae0fe87a"
+    },
+    {
+     "from": "2020-11-05",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "271e71ba308f18606b9cd3f3cdba24b052985056407642dd62bf9705dc3c170b"
+    },
+    {
+     "from": "2020-11-30",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "afae40b9ddf3a6fcb7604129bb183552b2858ca33159f5ac0bd01985e1b8dab7"
+    },
+    {
+     "from": "2020-12-07",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "81016d7b4175450f99a4105ac7e6dc66e0ac5fa2425bcbc5b7811d67b1bf1a08"
+    },
+    {
+     "from": "2020-12-08",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "acde6994ca1663caf9d458998f94de20cfd0f247ae622e9b71ff94e53c9ef858"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a5ed61e7a0adfc48390774b93513db5b23788bcdb55797a49ab490c50b527bbd"
+    },
+    {
+     "from": "2020-12-24",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "cf1d06054a9d7fdecd1543a6a818cdaade4d9063fbcf1dc030e181cd663d0796"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Altai Krai: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2021-02-02",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "51e1d6db1c85d03a2b2c44045f7347be830587bbb4d5b86dab8a1b7196f68c42"
+    },
+    {
+     "from": "2021-02-04",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e9a35c5460f21e2cedc7d20b76616c8d5290808a0d8c39990778df9902bbef11"
+    },
+    {
+     "from": "2021-02-08",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "935b0fa97c35d0894f012b64a5c7cf0b4add4eb00b4c457a9848da7464a320f3"
+    },
+    {
+     "from": "2021-02-09",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f9ccddddeee2aa77003d9b1663882d40dacc25f89c6e690b513897ed99c180a4"
+    },
+    {
+     "from": "2021-03-01",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c2f8a35e77cac4395a309eb4282b854663f8dcf9db75a679c386ee4e7ada2b7e"
+    },
+    {
+     "from": "2021-03-04",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "cffe213fee65e279e2eddffa5cab28fe35aa933f007f04b9e343767693160552"
+    },
+    {
+     "from": "2021-03-05",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f4b18be7f1c41c72aede83fb4b406c628f3c19694cdbcfc2118c3b9461870d1a"
+    },
+    {
+     "from": "2021-03-10",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2dd25e36c56718248fdabda7f8dbac314425d0ed1f7ff96a497949698bed4ddd"
+    },
+    {
+     "from": "2021-03-31",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "109fd0fbac972d20fc54d01c1bc9aa8b1142d494eb7fbf642099efae8ace0766"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "561b5b382a6203c66f9f58662308f9e478b262a6f8c8c6b3f15089f950831e56"
+    },
+    {
+     "from": "2021-04-30",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "41b5f8e5a280fc8f43847911ccba1bbc3b67c60a578c06f5540c57c17d766b62"
+    },
+    {
+     "from": "2021-05-11",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e42db42d9611ce7b8840664fbb8103aa7c998fc1526e949ee6c813010417a0ab"
+    },
+    {
+     "from": "2021-06-02",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3a3d117f41449158fb383e809863a2f1944964ddbd06347aaa187d81dd5a461b"
+    },
+    {
+     "from": "2021-06-09",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b720ed3e90e113341aa20590239696c977ef194acdeca7679b7098a6f92c9e3e"
+    },
+    {
+     "from": "2021-06-23",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b7291c0ff501c1209cf05645c7b211020fd7a46afa41abc485bb73d269386db8"
+    },
+    {
+     "from": "2021-06-24",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d3f108151706f67d47c99f9fd000441f580bc97f883d71cdb4f784cdd6c6f17b"
+    },
+    {
+     "from": "2021-09-02",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8a8d26b1df562090e71f6c4930765e5c0a7d71f3d62949f3d4c1b94a3c6d0045"
+    },
+    {
+     "from": "2021-09-06",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5a306f2a6fafa932e21a99569f5515607ad94ea97ccc50e1f2f1738ad44df4e9"
+    },
+    {
+     "from": "2021-09-07",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fe243de35dfe546a623bffd04bea3c7050365694f00208734a58249c65920ea8"
+    },
+    {
+     "from": "2021-09-08",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d1d14e130f42a9dd92bd674cc855b503ffb46eb4971bfd80c941cc1593411443"
+    },
+    {
+     "from": "2021-10-14",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7e0d1969c69c02525dfb34ec9d7427483aa2e29dec500e2460b48b5e95df9739"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "4bb270784576f1228a3ed26a0251fb2ae0dc3db0ebf44c1ef9011082dd7112de"
+    },
+    {
+     "from": "2021-11-09",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d009deab878b93dcb1276d3f1c3ce1e2b963a5bd51fe2685f308f1ed131424aa"
+    },
+    {
+     "from": "2021-11-10",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b8c9bd9b0ca3f6ffeed66c296a42bb6f28701ae699c4cf62705984e8d5c97ff5"
+    },
+    {
+     "from": "2021-11-30",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "af1fbfe9305b4d01a99cf1de1642211291ad0c4c84b22587f61b82e26d51a417"
+    },
+    {
+     "from": "2021-12-02",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7dff861dbbfa84c61a63e68d5e18a2bc0897b83b6ce349d6a35baabeca172e3e"
+    },
+    {
+     "from": "2021-12-03",
+     "units": 113,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d3a815af086f347fc869174763520c04b45169b9f77b69b1f9125ef18e53ac4d"
+    },
+    {
+     "from": "2021-12-21",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9c37a03a70de559ec87435cba2f6cf9499d4501cd6b37391808e856cfe3455ca"
+    },
+    {
+     "from": "2021-12-22",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2cb32987835681650db6bfb833474731b70348a06a703f267e4cd089dcb5f8f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Altai Krai: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0efab0a599541ffd65ae4fa74b0d5bf62e3065b3ed0217de3c5f3fff832a156a"
+    },
+    {
+     "from": "2022-03-02",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "37d6382c76ac2839391d5422066a42972478181dae82237d5eed72c29c8160ea"
+    },
+    {
+     "from": "2022-03-04",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b3c6332977b50bf4a132bf8039a9f292b7fdcf5c7efc2095386e6047b3ddf4f6"
+    },
+    {
+     "from": "2022-03-05",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "79efc1474f52588baa4cf97fa83897ba5c53a826ddfd5695a4d4f32f2aa7bd85"
+    },
+    {
+     "from": "2022-04-04",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2c099cd9b4f5696ecd9fc0fc0695d43378da04d725a0e2e4fda336765d82cece"
+    },
+    {
+     "from": "2022-04-05",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "01bc56dfd55e4ac4e866ea45ddd9bc57d5f7ed57f32b0565fafbcc90faf4b50d"
+    },
+    {
+     "from": "2022-04-06",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8008c9e82ed615ce215da80c7a820ae70d397657c25b70909c666f55d90ada24"
+    },
+    {
+     "from": "2022-04-07",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "81cbb2f82405f0aba918bc651ce2527dc2832421ce977e37e6229d87f986e20f"
+    },
+    {
+     "from": "2022-04-29",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "715115bb4efec78eaacfcf1c3a05453c669eb6f5d8d22edab768916dcf5af877"
+    },
+    {
+     "from": "2022-05-06",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2925721d9e90ecb9816129e2860b0552eb728e13662dd2d9dd99addb07620bef"
+    },
+    {
+     "from": "2022-05-12",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "74bf00314adc62aebf945056c0b4b295c73cc7ed8304c7e1c4ecb8209a471873"
+    },
+    {
+     "from": "2022-05-27",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "00f8ee7aeaf10c7d3deaa6ba84ce011df388c18aa18380af36c3886bf2483d4b"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8dba05c5f23fe54b241d6ff9785bb086e5a91d80c5d7b185e04fea6b30ca4e4d"
+    },
+    {
+     "from": "2022-06-02",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9f53170ba0346b245bd39dd1467c70285920b578483e7613716e212be3d7f55b"
+    },
+    {
+     "from": "2022-06-30",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8aa5954f307ed00416a5216174b4bda6cb89c428757a675ff4c96952724dc28e"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d5eda93cdeae6ca93c86f77554ae5161b83968b59803b2e4e8219875bda69c27"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "333fc538d6665edca85a2c41ba9cf848b921864f376eeb71aac817feeebd3475"
+    },
+    {
+     "from": "2022-09-02",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b2fbaa41828e5785e9a31c6338b56c17fbc7875a11de06e536a82fe1f6f7470b"
+    },
+    {
+     "from": "2022-10-06",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "55b8995018052c2d05cee6841e48b2ad884330f91536c120dca831d4d93a6f13"
+    },
+    {
+     "from": "2022-10-07",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8597f1c7393a9d3e10c1b56cd0970793f6cbd5c6a679ca2f3b3f9400f95d9cc3"
+    },
+    {
+     "from": "2022-10-10",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6f88740c3dc4a9286a1bfc9396b844164cb4cc367c0738adabe663219501257e"
+    },
+    {
+     "from": "2022-10-31",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7e5030ef1607bd62b45faeb01f8cdcc5e8f42f0267da371767c73293346bd9e5"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6111fc941c22a87f6ca2765651fd22066cd0f345a1b8367453f0cb077ac67d52"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "35e68dcf2486ae230b8033e33e7aa2753012dfc805a09228cec9d0ab0c253a70"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "414e7879f709eb88173d6b9e429f3e188483d7018cca79f55d9eba2e6cdaf1d4"
+    },
+    {
+     "from": "2022-12-01",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c4229d466fd35b6f855e076112b65a479843b5b3e9ac944bc6987f7605dec659"
+    },
+    {
+     "from": "2022-12-05",
+     "units": 121,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3d7c7e50db604ac9ab05c0ebed7c0512cbfd0621751d50d21e76936caa6a10a5"
+    },
+    {
+     "from": "2022-12-22",
+     "units": 124,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2570bdb9845d0643736f176f3a26a6ea1ac8bbf33298cf53f197328c6fa18a9d"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Altai Krai: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ed71296c4d8315e41a511008a26a7f97100750cb938889adf03b4eca5f7297d1"
+    },
+    {
+     "from": "2023-02-03",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "087eab4bde67eddc1eee0a19d5f9ba976ee7e655423139af312f3cd0570ddeff"
+    },
+    {
+     "from": "2023-02-27",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "069fb6672f4b2098f36ac90c32591072ff62447c91ca974bccc5c32a7330bcaa"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "75c338734fd090bec7acef7591abf8856ed667fbf7252948e40b6d5051c25ec3"
+    },
+    {
+     "from": "2023-03-02",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0a1f259dc05093194b397eb8b3f0817332892bf5e1e35fddf0cc643a1fb371a7"
+    },
+    {
+     "from": "2023-03-07",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e6fa395bf3e7ba1fec5702d33bde2a38a323ccc7c1d499ccc78b3ca9e7715bab"
+    },
+    {
+     "from": "2023-04-07",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0d93538b2d03385236c98d36d6b4c448bf6ea18f4880d36215f53f7a03332602"
+    },
+    {
+     "from": "2023-04-28",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "295e003f6a468dbc31c1189a3af5157ad237fd656c179ddc006b716ef0fd8c29"
+    },
+    {
+     "from": "2023-05-04",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0e19500b6917e785c96fdba3630f7d7e457ca1120ed9a8779b57086c0400c558"
+    },
+    {
+     "from": "2023-05-05",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "32a8d42461ae2608ea5f03c265ba8b4ff4e0b2ba4307955803eacff6de21f4a9"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "46159f9e605c06841c9468c18a737de8314c31256d74cf17fa874a4722321725"
+    },
+    {
+     "from": "2023-06-02",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f7de17386de3a8a42654529d4cdbb95d76ae21d5f93d241496b062b78c905fe8"
+    },
+    {
+     "from": "2023-06-07",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "145a283714950b87c9cb04e7b6aa5daeba6b843c8533f368ece4c6052a581e1c"
+    },
+    {
+     "from": "2023-06-08",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5bb3898b4d20b4004cf375f34cef37a6427f26b49ef8b03d6f8c21e70579ca07"
+    },
+    {
+     "from": "2023-06-15",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3a003df8bb8dbdabde3c3f274027e91f22be1dde2c2941f3bf8f4ec3c52f0dae"
+    },
+    {
+     "from": "2023-09-06",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f6adc649802aff27ecae79095745471cbfc16dc2412de6a2bfdb2c8ff706b044"
+    },
+    {
+     "from": "2023-09-12",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7b9e73ba94bf7adf1867bae6df955ae8a57d3dc6b5836dc25862f847d158ef9e"
+    },
+    {
+     "from": "2023-10-02",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ae73df0fb8dd3435b52235341861580ca8e34426943133e477b2a1f3075921da"
+    },
+    {
+     "from": "2023-10-03",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fbeb5e735f2c87c071b7c78a90adb09852039e88cc47cf2547d9ef1809cd6123"
+    },
+    {
+     "from": "2023-10-04",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "495fb4af829e50be05461bb33d494d54044589859f43bf7b3a1f52b671625f9d"
+    },
+    {
+     "from": "2023-10-10",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "4e8197cb88f009b4eac3ba5f333d5ba6d8c4550ba0f5c743d49ae4f1b2119ca4"
+    },
+    {
+     "from": "2023-11-07",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "749d185ba00eb2b76888f414691f8caafb1e4453213226498e0027a67aa772d7"
+    },
+    {
+     "from": "2023-11-08",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "3ef7b61e1b84d72fcd9ab913ef5334ec9003d4a61dbb67034228bc4c4c4fb9fe"
+    },
+    {
+     "from": "2023-11-09",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9530188eb8ab006b2171c61305e1e21993a451b4aaaaec35a87e4f0e8ef4ecc0"
+    },
+    {
+     "from": "2023-12-04",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "eb3fb7cf21ad5ccf6befdb3613c155f5769b22101671cbfa2b63c28a73be009c"
+    },
+    {
+     "from": "2023-12-06",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fcec0e5cd1dcfa6038e042fc037cc2d50158ecb6657beeff8e4f3acd9cb737e3"
+    },
+    {
+     "from": "2023-12-07",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "63214b268fc260895a802f8a8c95f3cbf196f3a706f90a872123fc64d93a853e"
+    },
+    {
+     "from": "2023-12-08",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d82ea0fc5c61de0d257c9085a24c5e35d543491107b2bf006cd7d572f8daa54d"
+    },
+    {
+     "from": "2023-12-19",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "d33b9f8af3bd1f386c1a414e6ea820e7d3d9b0fbb61ccb4f8118a667b756e621"
+    },
+    {
+     "from": "2023-12-20",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7af0d1ff61add43d2f66e80acc1c842064c6063bec4b420d555a65a6d98ac07f"
+    },
+    {
+     "from": "2023-12-21",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "de85d593e7d0dd0ca1ca227e0e58eab862294b42e7d31be3bd5d3ed424b865d3"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Altai Krai: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "46ef90e0aca189638f06962243556ec77e1a7d363504039421fdb04d3a0ad4eb"
+    },
+    {
+     "from": "2024-01-30",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ed70249768cad2c413ac4346951064b16afc543f71d6828e24377510cf364a2a"
+    },
+    {
+     "from": "2024-01-31",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a7e5d2522eee957340354721f580fca1ba70e12935fb6a1b030667c1b4654207"
+    },
+    {
+     "from": "2024-02-02",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a1d4a1aaab0545ff71ceb7bde36d5856b158a870e1adc010b50258d4a5c06bfe"
+    },
+    {
+     "from": "2024-02-05",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9bbf462d74c1caca9e5ac42c5d18f13becf36a8f97508cd804ae31fabab904f7"
+    },
+    {
+     "from": "2024-03-06",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b46908c383c8082e1125bc304da25bd0f9c0934fe126a0876529b3c7c453b653"
+    },
+    {
+     "from": "2024-03-07",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6d95eeec20d22349d9c04d8a76ec997df89418b3acefbb3305825c6ab26079c2"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "78c082fb3473e733a1791ffc2a52e2aaf1c154bd933e410e8f4d61df850569d3"
+    },
+    {
+     "from": "2024-04-04",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "80f1f39c69926a4dfe8b30e533af19d07a11e62dfc9c8d8fe18bb69943307121"
+    },
+    {
+     "from": "2024-04-05",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "0f37ba478553a678d727e9bcbcbde9665b70519e9fba592f313c76aa355508c5"
+    },
+    {
+     "from": "2024-05-02",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b1fa0d4dd751bcd4d0ed1a2681b5bfe2143f8b3db098a85c5400842cf71ca6b1"
+    },
+    {
+     "from": "2024-06-11",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "31a7ddb3281e2fc5c8fe9a814eba3b9396f72ddb72d1fa2fd1d6d6a1a1c6b76b"
+    },
+    {
+     "from": "2024-06-14",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "79567401459d2cec933418632abce776805ba2ab0299a8211bcfe5aae89d36eb"
+    },
+    {
+     "from": "2024-06-18",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a1d188b0db82c7d49b08dbb84a76755e06538e3132f978f5a8d7f787d5b35cf2"
+    },
+    {
+     "from": "2024-08-30",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "2158ab543ef4df7bc02ea7e35773c0ba56aea0ad856fc06b91eb8a50e36e78a8"
+    },
+    {
+     "from": "2024-09-04",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "089f6fcbb85fe55e6e0b51e1f4b1c58fa0d1fc8d1798ed6d0a02e8db94fa440a"
+    },
+    {
+     "from": "2024-09-09",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9ebc887b5f6aa15967c51f628e7bea2725481155c4e445871147d109df982920"
+    },
+    {
+     "from": "2024-09-10",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a97b52ecd3c2b3821199a52a8e42fec445a1781236e8fdb5515f1df833c40b01"
+    },
+    {
+     "from": "2024-10-04",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8b5a495468125e10b1625e206ad96f79d37adba9bf8a2491e858ee4037954ac6"
+    },
+    {
+     "from": "2024-10-07",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "b4615ff5df9d9d183468325023ec3bb339735dc8cf2985a6edac4d1d4987661e"
+    },
+    {
+     "from": "2024-10-14",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "140b9070c3809b7328984a4dcacc7c37ec5576ce140f885d3d3ddd4d9c0b8a76"
+    },
+    {
+     "from": "2024-10-15",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "961b28dc58273391c470c50d5f7baa81c0e8937e0cd5da7f9be427cff5120e52"
+    },
+    {
+     "from": "2024-11-08",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8904eb01306fda3b2fd928a026e4ba2872deaf757a60ce2ca3b50324974c49d0"
+    },
+    {
+     "from": "2024-12-03",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ad099af7ac78eb2a0d858db712ef3d329fe6fc445ef6d62695f44c37970ef398"
+    },
+    {
+     "from": "2024-12-04",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "269515312aa177eb055f5b1ded88ed64c0ce326a36f541bd0c8ffaeca3f7f6ba"
+    },
+    {
+     "from": "2024-12-06",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c14fe8e0d0a528743a400f6ae2302f70a8d6c1121ff54a48090826d949debd83"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8b749accc229aba2c97a27eaaf15c114b0b61f388a042bd41ff9dae40ff9216a"
+    },
+    {
+     "from": "2024-12-18",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "801ce68a2bb09a1eca5e92c32089f30553851e4c0cbae1f47658e77e95dad344"
+    },
+    {
+     "from": "2024-12-19",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7dc6ece86e54a9fc84f31721284acd9d4ffab814755a925a4c98d7ddfe5f29e6"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Altai Krai: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "8954000375bc3a797a3f0d988ae76ccee8ce91149c7edd203eadca6a738b5759"
+    },
+    {
+     "from": "2025-02-06",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "40bc18c19f50489ae617e074be60a70429ffaa72a99c0e2bec9a43344c8184af"
+    },
+    {
+     "from": "2025-03-05",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "077efc27417e590147f8928b9691bc63fde5552b860e5d63703fa0b1215e3e31"
+    },
+    {
+     "from": "2025-03-07",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "7370a963b784df4596907450f06b3fef30d2401303ceb74a4f4b77cdb5bedb15"
+    },
+    {
+     "from": "2025-03-12",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "256092dcb5dfae418aeb49ae6f3955e7bf74a73b480b9dc1a28864d36e9854ca"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "265692ead8d0f664441562fcb0c4675c8c36463a315917f9828a750a46039885"
+    },
+    {
+     "from": "2025-04-04",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ef3c24727fe509011539c24e3686fe783ef2686ea7d4016d99c4af16ad1cdffb"
+    },
+    {
+     "from": "2025-05-07",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "33f3e39c7d2eae7b73bf6de65da70ed016ac2ed680b3686cc8f06b6a8a025ce4"
+    },
+    {
+     "from": "2025-06-09",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "05c3bcb4e9c2842ac117e9daba2a1c55eb14cb5d2a53eddafdcd131d1035bb49"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "96711586f3c224f27ebea395fa673f57b1bfe5acde144fcec393b5dbeddc733f"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a14a35f311e6e7bb822d766ada49e6c9b6ec5246048083115fd85f42bdd6aa61"
+    },
+    {
+     "from": "2025-07-04",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "ada685b6dc249ca23e11df2d3660e1e66cbe256d00a0524876e0cb26e3bc5b6f"
+    },
+    {
+     "from": "2025-09-05",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5da69c6b368a27b56306a510b55154f1e099d3bfb0e92c2abbc83673dc02aa06"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "66320b66fd7f83578b1b7d15ef5cf5231786ebafa90daff553795afc70ca56d3"
+    },
+    {
+     "from": "2025-10-02",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f9a8bdb26012cfa8aaa269994f349c5ceb5b679d4c965b74631ecf63eded12ef"
+    },
+    {
+     "from": "2025-10-07",
+     "units": 75,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "5a0fe0866461c035051aa09a57d8229cb8cabd67a838dd2ae5b72331ae4158b7"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f4019816ac13b0a4747625028f89c69e8fc3da5eaba7a8f9762b01fda0f9e673"
+    },
+    {
+     "from": "2025-11-05",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "cbc98edcd01e3c66a5d29bf88082feeefecc29b02ffac99fb80fe320ca5784f6"
+    },
+    {
+     "from": "2025-11-07",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fdfc08fc723ba0f99e9a41d29f1ce0f370fa7c9eb392ea6fe00e2d09e8345d19"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "e31e07c4b1e65c42c8de78a9ac57a1765718d573cc6c763b0d690528f0addbdf"
+    },
+    {
+     "from": "2025-12-01",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "4a4c052ed4051466dde2b2d0e6668d7b5f701cb181723679f0580f441013ce37"
+    },
+    {
+     "from": "2025-12-02",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "242c803bdcab1ce889586c83ecad715881079d38ab440cf19cc8ee94ede5662f"
+    },
+    {
+     "from": "2025-12-04",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "86133b50e201289ae8042f9cc3e51db77ef3f0f66fdd4c24c5e088c7987d6c92"
+    },
+    {
+     "from": "2025-12-23",
+     "units": 111,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "286b627209f1d6912e8cf00fa11fa6519643c1173800d882cfdfd073a4317d68"
+    },
+    {
+     "from": "2025-12-24",
+     "units": 114,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fe805a01b0a3e7bf9432d068c248ac3a3a65d9f98abb1e39864f9e712e097957"
+    },
+    {
+     "from": "2025-12-25",
+     "units": 115,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "03bc3512d959f3595a6ec0840cbc62b262aa8e20b8a0a92946b40eecd0992950"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Altai Krai: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "702ad368ef2b911338a1976dc8e39dd68d6fc6359dd7a708423fd99481cfbada"
+    },
+    {
+     "from": "2026-03-03",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "9cffca95e7d67912af675b7fce91fd6dd142de89ac9af864f27045be54391fef"
+    },
+    {
+     "from": "2026-03-05",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "41820abcc2e66708e0d7e638f5920d4d84b54e13ee802f4984cb187d6052d8c3"
+    },
+    {
+     "from": "2026-03-30",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "6777889b775b81faf42779ebbed3f108f65742eee128532b372cf633d41f7657"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "57bd4c1839a83034050d9ac7297a8b47e8816bd75c229b0de57c08886417e78b"
+    },
+    {
+     "from": "2026-04-02",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "f70a7828de7aaba4fe3269fd1eaedeb9dd2a126f80fb8a7ce27bddee54c1504a"
+    },
+    {
+     "from": "2026-04-03",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "fad96c5200ea9e27031dc4789d0d09cd75eafd5d9383a33d19d2921bdc9b6172"
+    },
+    {
+     "from": "2026-04-07",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "c14dc334c4035ccb887cb80a53a9b5a20db0dee73ad2228fe12f95f1a0683b5c"
+    },
+    {
+     "from": "2026-05-08",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "cf0b443b5f12b83302117500d0f9caa2a43fe74d7b378085e75f4cb5540be331"
+    },
+    {
+     "from": "2026-06-09",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "a4b735098d997c5ae1b2dabcf9ef29fc30ab064f75f1a34d493cb62d85f19074"
+    },
+    {
+     "from": "2026-06-11",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "302bc161f8bb98f4eb33c4118d3b1289b69884242afc23850ab5a5e8a4da8bcd"
+    },
+    {
+     "from": "2026-06-22",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "57ce4762c5d7e222bd0c6125fa48da9b9d709f37eebf7eddfad3c54df76b333c"
+    },
+    {
+     "from": "2026-06-23",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region22",
+     "sha256": "73ed8706f346c3307f99aec6b8fb0c0c504785d9929007c49efa0d2740cef2a8"
+    }
+   ]
+  }
+ ]
+}
