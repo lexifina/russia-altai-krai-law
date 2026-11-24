@@ -1,0 +1,28 @@
+{
+ "sources": [
+  {
+   "id": "pravo-altai-krai",
+   "kind": "legislation",
+   "name": {
+    "en": "Altai Krai: Official Internet Portal of Legal Information (region22)",
+    "ru": "Altai Krai: Официальный интернет-портал правовой информации (region22)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region22",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/altai-krai/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-altai-krai-law",
+   "group": "pravo"
+  }
+ ]
+}
