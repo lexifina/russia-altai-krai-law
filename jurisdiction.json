@@ -1,11 +1,11 @@
 {
-  "path": "ru-alt",
-  "code": "RU-ALT",
-  "name": "Altai Krai",
-  "level": "region",
-  "parent": "ru",
-  "repo": "https://github.com/lexifina/russia-altai-krai-law",
-  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
-  "language": "ru",
-  "sources": 1
+ "path": "russia/altai-krai",
+ "code": "RU-ALT",
+ "name": "Altai Krai",
+ "level": "region",
+ "parent": "russia",
+ "repo": "https://github.com/lexifina/russia-altai-krai-law",
+ "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+ "language": "ru",
+ "sources": 1
 }
