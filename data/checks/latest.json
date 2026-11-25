@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:32:39Z",
+ "generated": "2026-11-25T06:57:42Z",
  "latest": {
   "pravo-altai-krai|russia/altai-krai/acts": {
    "attempt": 1,
@@ -13,82 +13,42 @@
    },
    "census": {
     "checked": 1377,
-    "current": 1365,
+    "current": 1377,
     "gone": 0,
-    "held": 1365,
-    "newest_in_repo": "2026-06-23",
-    "pending": 12,
-    "repo": 1365,
+    "held": 1377,
+    "newest_in_repo": "2026-11-06",
+    "pending": 0,
+    "repo": 1377,
     "source_in_scope": 1377
    },
-   "check_id": "ru-pravo-altai-krai-20261124T122843Z",
-   "commits": {
-    "count": 3,
-    "from": "172e44bedab757e2327847b109d4d49fae71f0db",
-    "to": "fb37890316ac545c142b81563de6dd52fe65183c"
-   },
+   "check_id": "ru-pravo-altai-krai-20261125T051308Z",
+   "commits": null,
    "corpus": "russia/altai-krai/acts",
    "error": null,
-   "finished": "2026-11-24T12:32:38Z",
+   "finished": "2026-11-25T05:13:48Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region22: 1377 law-type documents listed (every page read); 1365 held here; 12 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region22: 1377 law-type documents listed (every page read); 1377 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "2200202611050001",
-     "2200202611050002",
-     "2200202611050003",
-     "2200202611050004",
-     "2200202611050005",
-     "2200202611060001",
-     "2200202611060003",
-     "2200202611060004",
-     "2200202611060005",
-     "2200202611060006",
-     "2200202611060007",
-     "2200202611060008"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "requests": 10,
-   "runner": "lawwatch russia (a5c4306c67)",
+   "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "2200202611050001",
-     "2200202611050002",
-     "2200202611050003",
-     "2200202611050004",
-     "2200202611050005",
-     "2200202611060001",
-     "2200202611060003",
-     "2200202611060004",
-     "2200202611060005",
-     "2200202611060006",
-     "2200202611060007",
-     "2200202611060008"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1377 law-type documents in block region22; newest published 2026-11-06",
    "source": "pravo-altai-krai",
-   "started": "2026-11-24T12:28:43Z",
+   "started": "2026-11-25T05:13:08Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 2,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
